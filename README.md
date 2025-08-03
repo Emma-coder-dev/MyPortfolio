@@ -45,7 +45,7 @@ This portfolio website represents **Neema Kageni**, a passionate Full Stack Deve
 - **Technologies**: React, Node.js, PostgreSQL, Express
 
 ### Portfolio Website
-- **Live Demo**: [https://my-portfolio-rust-sigma-77.vercel.app/](https://my-portfolio-rust-sigma-77.vercel.app/)
+- **Live Demo**: [https://my-portfolio-murex-iota-98.vercel.app/](https://my-portfolio-murex-iota-98.vercel.app/)
 - **GitHub**: [https://github.com/Emma-coder-dev/MyPortfolio.git](https://github.com/Emma-coder-dev/MyPortfolio.git)
 - **Description**: A modern, responsive portfolio website built with HTML and CSS showcasing skills, projects, and professional background. Features smooth animations and mobile-first design.
 - **Technologies**: HTML, CSS, Responsive Design
@@ -112,7 +112,7 @@ MyPortfolio/
 
 ## 🌐 Live Demo
 
-**Portfolio Website**: [https://emma-coder-dev.github.io/MyPortfolio/](https://emma-coder-dev.github.io/MyPortfolio/)
+**Portfolio Website**: [https://my-portfolio-murex-iota-98.vercel.app/](https://my-portfolio-murex-iota-98.vercel.app/)
 
 ## 🚀 How to Use
 
