@@ -198,6 +198,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Ready to showcase your skills and projects!** 🎉
 
 *Built with ❤️ by Neema Kageni* 
